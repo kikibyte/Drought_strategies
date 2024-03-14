@@ -9,4 +9,4 @@ This repository includes:
 Source data can be accessed in the following link:
 https://zenodo.org/records/10818942
 
-The process of other anomaly vegetation indexes follows the same method(codes).
+The process of other anomaly vegetation indexes follows the same method(code).
