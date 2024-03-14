@@ -6,7 +6,9 @@ This repository includes:
 1.The python code for main analyses;
 2.Source data for running the code.
 
+# Source data
 Source data can be accessed in the following link:
 https://zenodo.org/records/10818942
 
+# Other
 The process of other anomaly vegetation indexes follows the same method(code).
