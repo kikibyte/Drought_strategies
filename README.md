@@ -3,7 +3,8 @@ Data and codes in "European-wide variations in ecosystem-scale vegetation drough
 
 This repository includes:
 
-1.The python code for main analyses;
+1.The python code for main analyses.
+
 2.Source data for running the code.
 
 # Source data
