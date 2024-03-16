@@ -12,4 +12,4 @@ Source data can be accessed in the following link:
 https://zenodo.org/records/10818942
 
 # Other
-The process of other anomaly vegetation indexes follows the same method(code).
+The process of other anomaly vegetation indexes follows the same method(similar code).
