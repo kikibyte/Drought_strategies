@@ -54,7 +54,6 @@ def get_runs(anomalies):
         })
 
 def pool_runs(runs, pooling_method='None', show_positives=False,**kwargs):
-
     if pooling_method == 'None':
         runs_pooled = runs              
     if show_positives:
