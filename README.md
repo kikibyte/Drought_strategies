@@ -1,5 +1,5 @@
 # Drought_strategies
-Data and codes in "European-wide variations in ecosystem-scale vegetation drought strategies" by Qi Chen, Joris Timmermans and Peter M. van Bodegom.
+Data and codes in "European-wide variations in ecosystem-scale strategies to increasing drought" by Qi Chen, Joris Timmermans and Peter M. van Bodegom.
 
 This repository includes:
 
