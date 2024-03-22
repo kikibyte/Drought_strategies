@@ -37,7 +37,7 @@ def wirteoutfile(src,dst_ds):
                 rows = block_ysize
             else:
                 rows = ysize - y
-            abLAI = src.ReadAsArray(x,y,cols,rows) ###########cols列  rows行
+            abLAI = src.ReadAsArray(x,y,cols,rows) 
             print(x,y)  
             ablai_accum_730=np.apply_along_axis(get_accum,0,abLAI) 
             for c in range(730):
